@@ -1,6 +1,6 @@
 # Compiler Design Programs
 
-Programs to understand programmin concepts.
+Programs to understand compiler design concepts.
 
 
 ## Run Locally
