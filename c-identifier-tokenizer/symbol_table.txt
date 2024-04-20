@@ -1,0 +1,28 @@
+Index	Token	Type
+0	#	Preprocessor Directive
+1	include	Identifier
+2	<	Relational Operator
+3	stdio	Identifier
+4	h	Identifier
+5	>	Relational Operator
+6	main	Identifier
+7	(	Left Parenthesis
+8	)	Right Parenthesis
+9	{	Left Brace
+10	printf	Identifier
+11	(	Left Parenthesis
+12	)	Right Parenthesis
+13	displays	Identifier
+14	the	Identifier
+15	string	Identifier
+16	inside	Identifier
+17	quotation	Identifier
+18	printf	Identifier
+19	(	Left Parenthesis
+20	Hello	Identifier
+21	World	Identifier
+22	)	Right Parenthesis
+23	;	Semicolon
+24	0	Integer
+25	;	Semicolon
+26	}	Right Brace
